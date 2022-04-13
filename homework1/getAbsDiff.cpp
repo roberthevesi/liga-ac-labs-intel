@@ -90,6 +90,7 @@ int main(int argc, char **argv){
 
     f1.close();
     f2.close();
+    fout.close();
     
     return 0;  
 }
