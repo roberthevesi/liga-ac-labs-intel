@@ -1,0 +1,16 @@
+File,Shape,Color
+data/training/ellipses/1.jpg,ellipse,blue
+data/training/ellipses/2.jpg,ellipse,red
+data/training/ellipses/3.jpg,ellipse,green
+data/training/ellipses/4.jpg,ellipse,red
+data/training/ellipses/5.jpg,ellipse,blue
+data/training/rectangles/1.jpg,rectangle,green
+data/training/rectangles/2.jpg,rectangle,red
+data/training/rectangles/3.jpg,rectangle,green
+data/training/rectangles/4.jpg,rectangle,blue
+data/training/rectangles/5.jpg,rectangle,red
+data/training/triangles/1.jpg,triangle,red
+data/training/triangles/2.jpg,triangle,red
+data/training/triangles/3.jpg,triangle,blue
+data/training/triangles/4.jpg,triangle,blue
+data/training/triangles/5.jpg,triangle,green
